@@ -14,9 +14,11 @@
 
 ## 프로젝트 구성원
 
--임예은: Main, BankAccount 코드 작성
--안윤성: Main, BankAccount 코드 작성, README 작성, 발표
--이지영: Main 코드 작성, README 작성, 발표 
+임예은: Main, BankAccount 코드 작성
+
+안윤성: Main, BankAccount 코드 작성, README 작성, 발표
+
+이지영: Main 코드 작성, README 작성, 발표 
 
 ## 코드 구조
 프로그램은 두 개의 주요 클래스로 구성됩니다: 
