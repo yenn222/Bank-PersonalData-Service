@@ -1,4 +1,4 @@
-# 2024 Bank Account Management System1
+# 2024 Bank Account Management System
 
 ## 프로젝트 설명
 
@@ -9,7 +9,7 @@
 ### 주제
 - 은행 계좌 관리 시스템
 
-### 사용 기술(------완성된 후 추가 예정------)
+### 사용 기술
 - Java Collection Framework (JCF)의 `ArrayList`와 `HashMap`을 사용하여 계좌 정보를 효율적으로 저장하고 검색합니다.
 
 ## 프로젝트 구성원
