@@ -4,6 +4,14 @@
 
 이 프로그램은 은행 계좌 관리 시스템입니다. 사용자는 정보를 입력을 완료한 후 검색, 삭제, 종료를 실행할 수 있습니다. 
 
+## 프로젝트 구성원
+
+임예은: Main, BankAccount 코드 작성
+
+안윤성: Main, BankAccount 코드 작성, README 작성, 발표
+
+이지영: Main 코드 작성, README 작성, 발표
+
 ## 주제 및 사용 기술
 
 ### 주제
@@ -12,13 +20,6 @@
 ### 사용 기술
 - Java Collection Framework (JCF)의 `ArrayList`와 `HashMap`을 사용하여 계좌 정보를 효율적으로 저장하고 검색합니다.
 
-## 프로젝트 구성원
-
-임예은: Main, BankAccount 코드 작성
-
-안윤성: Main, BankAccount 코드 작성, README 작성, 발표
-
-이지영: Main 코드 작성, README 작성, 발표 
 
 ## 코드 구조
 프로그램은 두 개의 주요 클래스로 구성됩니다: 
